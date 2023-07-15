@@ -110,9 +110,6 @@ class WebsiteAutomator {
     async run(url) {
         await this.launchBrowser();
         await this.goToWebsite(url);
-        setTimeout(async () => {
-            await this.closeBrowser();
-        }, 30 * 1000);
     }
 }
 
