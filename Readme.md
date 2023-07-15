@@ -4,7 +4,7 @@
 
 1. Clone this repository:
     ```shell
-    git clone https://github.com/your-username/website-automator.git
+    git clone https://github.com/darshan-trivedi-10/webAutomater.git
    ```
 2. Navigate to the project directory:
     ```shell
